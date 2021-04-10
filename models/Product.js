@@ -10,6 +10,7 @@ class Product extends Model {}
 Product.init(
   {
     // define columns
+    
     //Column: id
     id: {
       type: DataTypes.INTEGER,
@@ -32,6 +33,7 @@ Product.init(
         isDecimal: true
       }
     },
+
     //Column: stock
     stock: {
       type: DataTypes.INTEGER,
@@ -51,6 +53,7 @@ Product.init(
       }
     }
   },
+
   {
     sequelize,
     timestamps: false,
