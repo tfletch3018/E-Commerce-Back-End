@@ -20,7 +20,7 @@ router.get('/', (req, res) => {
       res.json(dbCategoryData);
     })
     .catch(err => {
-      console.log9err
+      console.log(err)
         ;
       res.status(500).json(err)
     });
