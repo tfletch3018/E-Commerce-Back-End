@@ -43,6 +43,12 @@ THEN I am able to successfully create, update, and delete data in my database
 
 <img src="demo.gif" />
 
+<img src="images\Screenshot3.png" />
+
+<img src="images\Screenshot6.png" />
+
+<img src="images\Screenshot5.png" />
+
 ## License
 MIT License
 
@@ -71,7 +77,7 @@ SOFTWARE.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
-If your project has a lot of features, list them here.
+Please see the images folder for additonal screenshots demonstrating the functionality of this app!
 
 Watch the demo video of this application:
  https://drive.google.com/file/d/1wT_-C7ysDZ-JtCUJLeLCC_YqmpyxCvBi/view
