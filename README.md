@@ -79,8 +79,6 @@ SOFTWARE.
 ## Features
 Please see the images folder for additonal screenshots demonstrating the functionality of this app!
 
-Watch the demo video of this application:
- https://drive.google.com/file/d/1wT_-C7ysDZ-JtCUJLeLCC_YqmpyxCvBi/view
+[Watch the demo video of this application:](https://drive.google.com/file/d/1wT_-C7ysDZ-JtCUJLeLCC_YqmpyxCvBi/view)
 
-Visit this repo:
-https://github.com/tfletch3018/E-Commerce-Back-End
+[Visit this repo:](https://github.com/tfletch3018/E-Commerce-Back-End)
